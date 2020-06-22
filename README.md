@@ -8,3 +8,6 @@
 6. 使用git add 将修改后文件保存在本地仓库。
 7. 使用git commit -m命令设置注释
 8. 使用git push命令将本地项目更新提交到github。
+
+1. 串口参数：9600
+	初始化：Serial.begin 
